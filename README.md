@@ -1,6 +1,6 @@
 ### Hi there!! 👋
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=ikmrgrv&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar Gaurav" /></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=mekumargaurva&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar Gaurav" /></p>
 <!--
 Here are some ideas to get you started:
 
