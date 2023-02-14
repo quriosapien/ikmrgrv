@@ -1,13 +1,14 @@
 ### Hi there!! 👋
 
-<div style="dispplay: flex; align-items:center; justify-contents: center;">
 <a href="#">
   <img src="https://komarev.com/ghpvc/?username=ikmrgrv&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar Gaurav" />
 </a>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kumargaurav&label=Stalked%20-%20&color=1&icon=7&pretty=true" />
 </a>  
-</div>
+
+---
+
 ### 
 
 - 🔭 I’m currently working on [Twople](http://twople.in) and [Zence](https://zence.in)
