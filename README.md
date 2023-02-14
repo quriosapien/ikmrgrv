@@ -5,7 +5,8 @@
 </a>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kumargaurav&label=Stalked%20-%20&color=1&icon=7&pretty=true" />
-</a>
+</a>  
+
 
 - 🔭 I’m currently working on [Twople](http://twople.in) and [Zence](https://zence.in)
 - 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career.
