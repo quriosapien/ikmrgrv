@@ -11,8 +11,8 @@
 
 ### 
 
-- 🔭 I’m currently working on [BeMyGuest](http://bemyguest.social) and [Twople](http://twople.in)
-- 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career.
-- 🌱 I’m currently learning the non-tech side of Entrepreneurship.
+- 🔭 I’m presently building [BeMyGuest](http://bemyguest.social) and [Quido](http://quido.club)
+- 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general.
+- 🌱 Currently learning the non-tech side of Entrepreneurship.
 - 📫 How to reach me: [Kumar Gaurav on Twitter](https://twitter.com/ikmrgrv)
 - ⚡ Fun fact: I enjoy watching Sunsets and Bollywood
