@@ -1,6 +1,6 @@
 ### Hi there!! 👋
 
-<div style="display:flex; justify-contents:center; align-items: center;">
+<div style="display:flex; justify-content:center; align-items: center;">
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=ikmrgrv&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar Gaurav" />
   </a>
