@@ -10,7 +10,7 @@
 
 ### 
 
-- 🔭 I’m presently building [Quido](http://quido.club) and [Zence](https://zence.in)
+- 🔭 I’m presently building [Quido](https://quido.club) and [Zence](https://zence.in)
 - 🥷🏻 Experienced deveoper in JavaScript, VueJS, NodeJS, Deno & GoLang.
 - 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general.
 - ✍🏻 Inking my thoughts and learnings at [meliorism.ink](https://meliorism.ink)
