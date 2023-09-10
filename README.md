@@ -15,5 +15,5 @@
 - 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general.
 - ✍🏻 Inking my thoughts and learnings at [meliorism.ink](https://meliorism.ink)
 - 🌱 Currently learning the non-tech side of Entrepreneurship.
-- 📫 How to reach me: [Kumar Gaurav on Twitter](https://twitter.com/ikmrgrv)
+- 📫 How to reach me: [On Twitter](https://twitter.com/ikmrgrv) [On LinkedIn](https://linkedin.com/in/ikmrgrv)
 - ⚡ Fun fact: I enjoy watching Sunsets, Anime and Movies.
