@@ -4,8 +4,9 @@
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=ikmrgrv&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar Gaurav" />
   </a>
-  
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/7qruzer">
+  <a href="https://twitter.com/intent/follow?screen_name=7qruzer">
+    <img alt="X Follow" src="https://img.shields.io/twitter/follow/7qruzer">
+  </a>
 </div>
 
 ---
