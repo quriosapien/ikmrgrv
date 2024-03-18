@@ -14,7 +14,7 @@
 ### 
 
 - 🔭 I’m presently building [ProspectoAI](https://prospecto.one)
-- - 🌱 Currently learning the non-tech side of Entrepreneurship.
+- 🌱 Currently learning the non-tech side of Entrepreneurship.
 - 🥷🏻 Experienced deveoper in JavaScript, VueJS, NodeJS, Deno & GoLang.
 - 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general.
 - ✍🏻 Inking my thoughts and learnings at [meliorism.ink](https://meliorism.ink)
