@@ -13,7 +13,7 @@
 
 ### 
 
-- 🔭 I’m presently building [ProspectoAI](https://prospecto.one)
+- 🔭 I’m presently looking for work - [view my linkedin profile](https://linkedin.com/in/ikmrgrv).
 - 🌱 Currently learning the non-tech side of Entrepreneurship.
 - 🥷🏻 Experienced deveoper in JavaScript, VueJS, NodeJS, Deno & GoLang.
 - 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general.
