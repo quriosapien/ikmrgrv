@@ -13,7 +13,7 @@
 
 ### 
 
-- 🔭 I’m presently looking for work - [view my linkedin profile](https://linkedin.com/in/ikmrgrv).
+- 🔭 I’m presently looking for work - [view my linkedin profile](https://linkedin.com/in/heykumargaurav).
 - 🌱 Currently learning the non-tech side of Entrepreneurship.
 - 🥷🏻 Experienced deveoper in JavaScript, VueJS, NodeJS, Deno & GoLang.
 - 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general.
