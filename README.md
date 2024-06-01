@@ -4,8 +4,8 @@
   <a href="#">
     <img src="https://komarev.com/ghpvc/?username=ikmrgrv&label=Profile%20views&color=0e75b6&style=flat" alt="Kumar Gaurav" />
   </a>
-  <a href="https://twitter.com/intent/follow?screen_name=7qruzer">
-    <img alt="X Follow" src="https://img.shields.io/twitter/follow/7qruzer">
+  <a href="https://twitter.com/intent/follow?screen_name=quriosapien">
+    <img alt="X Follow" src="https://img.shields.io/twitter/follow/quriosapien">
   </a>
 </div>
 
@@ -18,5 +18,5 @@
 - 💬 Ask me about FullStack Web developments, Entrepreneurship, Education & Career in general. Happy to guide and help!
 - ✍🏻 Inking my thoughts and learnings at [meliorism.ink](https://meliorism.ink)
 
-- 📫 How to reach me: [On Twitter](https://twitter.com/ikmrgrv) or [On LinkedIn](https://linkedin.com/in/heykumargaurav)
+- 📫 How to reach me: [On Twitter](https://twitter.com/quriosapien) or [On LinkedIn](https://linkedin.com/in/heykumargaurav)
 - ⚡ Fun fact: I enjoy watching Sunsets, Anime and Movies. Buidling road-trip enthu community at [Qruze](https://qruze.in)
